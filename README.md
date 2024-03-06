@@ -14,8 +14,10 @@
 - Favorite Video Game... **Zelda: Ocarina Of Time**
 
 - Favorite Anime... **Mushoku Tensei**
-
+<img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://m.media-amazon.com/images/I/71dgua0cSiL.jpg)" alt="Couldn't Load Image" height="30" width="40" />
 - Favorite Manga... **Demon Slayer**
+
+- Favorite Light Novel... **Mushoku Tensei**
 
 - What I'm currently Learning... **HTML, CSS, JAVASCRIPT, PYTHON**
 
