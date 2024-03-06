@@ -16,11 +16,14 @@
 ##
 
 - Favorite Anime... **Mushoku Tensei**
-<img align="center" src="https://m.media-amazon.com/images/I/71dgua0cSiL.jpg" alt="Couldn't Load Image" height="30" width="40" />
+<img align="center" src="https://m.media-amazon.com/images/I/71dgua0cSiL.jpg" alt="Couldn't Load Image" height="216" width="325.6"/>
 
 ##
 
 - Favorite Manga... **Demon Slayer**
+<img align="center" src="https://m.media-amazon.com/images/I/81ZNkhqRvVL._AC_UF1000,1000_QL80_.jpg" alt="Couldn't Load Image" height="250" width="133.4"/>
+
+##
 
 - Favorite Light Novel... **Mushoku Tensei**
 
