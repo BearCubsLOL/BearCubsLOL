@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Im Jay</h1>
-<h3 align="center">Inspiring game develpoer, who is a WebDev student.</h3>
+<h3 align="center">Aspiring game develpoer, who is a WebDev student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bearcubslol&label=Profile%20views&color=0e75b6&style=flat" alt="bearcubslol" /> </p>
 
